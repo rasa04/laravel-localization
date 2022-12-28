@@ -1,0 +1,733 @@
+{
+    "layouts": {
+        "main": "Главная",
+        "services": "Услуги",
+        "team": "Команда",
+        "russian": "Русский",
+        "german": "Немецкий",
+        "italian": "Италианский",
+        "english": "Английский",
+        "finnish": "Финский",
+        "swedish": "Шведский",
+        "ukrainian": "Украинский",
+        "your email": "Ваш email",
+        "order_now": "Заказать сейчас",
+        "we are in social networks": "Мы в социалных сетях",
+        "footer text": "Lorem ipsum dolor sit amet consectetur. Tempor in volutpat ut nec tortor id. Platea diam.",
+        "form sub title": "Будьте в курсе дела!",
+        "All Rights Reserved": "All Rights Reserved @DEN Parviainen 2022",
+        "Terms & Conditions": "Terms & Conditions",
+        "Privacy & Policy": "Privacy & Policy"
+    },
+    
+    "popUpWindow": {
+        "cost calc": "Расчитать стоимость?",
+        "cost calc subtitle": "Lorem ipsum dolor sit amet consectetur. A sollicitudin nisl eget eu et ut nisl. Sagittis lorem libero",
+        "Mobile App & Web Design": "Mobile App & Web Design",
+        "SAAS": "SAAS",
+        "Website Development": "Website Development",
+        "Design Systems": "Design Systems",
+        "CRM, CMS, Web Apps": "CRM, CMS, Web Apps",
+        "Strategy & Design": "Strategy & Design",
+        "Branding & Visual Identity": "Branding & Visual Identity",
+        "Wireframing & User Testing": "Wireframing & User Testing",
+        "your name": "Ваше имя",
+        "your email": "Ваш email",
+        "Write here": "Напишите сюда...",
+        "form agreement": "Lorem ipsum dolor sit amet consectetur. A sollicitudin nisl eget eu et ut nisl. Sagittis lorem libero",
+        "send": "Отправить",
+    
+        "Message sent successfully": "Сообщение успешно отправлено",
+        "We will answer you shortly": "Мы ответим Вам, в скором времени",
+        "close": "Закрыть",
+    
+        "Please enter your name": "Пожалуйста, укажите ваше имя",
+        "We need your email address to contact you.": "Нам нужен ваш адрес электронной почты, чтобы связаться с вами",
+        "Your email address must be in the format name@domain.com": "Ваш адрес электронной почты должен быть в формате name@domen.com",
+        "Please write a message": "Пожалуйста, напишите сообщение",
+        "Accept the privacy policy": "Примите политику конфиденциальности"
+    },
+
+    "mainPage": {
+        "hero": {
+            "hero_title": "Разработка сайтов",
+            "hero_title 2": "с нуля до дохода",
+            "hero_title sub": "Создадим конверсионный сайт для решения ваших бизнес-задач. Любая сложность: от лендингов до корпоративных порталов и интернет-магазинов.",
+            "more": "Подробнее"
+        },
+        
+        "services": {
+            "DESIGN": "DESIGN",
+            "CODE": "CODE",
+            "IMPLEMENT": "IMPLEMENT",
+            "heading__subtitle": "Услуги",
+            "heading__title": "Что мы прилагаем?",
+            "card 1": "Аналитика и проектирование сайта 1",
+            "card 1 desc": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+            "card 2": "Разработка дизайна сайта и адаптация 2",
+            "card 2 desc": "Разработка макетов дизайна сайта в четырех форм-факторах (desktop, laptop, tablet, phone) с учетом сценариев поведения пользователей.",
+            "card 3": "Верстка, программинг и тестирование сайта 3",
+            "card 3 desc": "Пишем чистый валидный оптимизированный код, понятный для третьих лиц. Тестируем все элементы и функционал сайта повторяя пользовательские сценарии.",
+            "card 4": "Наполнение и релиз сайта в интернете 4",
+            "card 4 desc": "Интегрируем товарные категории (1C, R-keeper, IIko, Excel) или наполняем сайт вручную. Подбираем лаконичный домен, размещаем на скоростном хостинге."
+        },
+
+
+        "projects": {
+            "Portfolio": "Портфолио",
+            "Our work": "Наши работы",
+            "view all": "Посмотреть все",
+            "Project name1": "Название проекта",
+            "Project desc1": "Lorem ipsum dolor sit amet consectetur. Eget at dictum feugiat amet semper tristique at suspendisse. Sagittis.",
+            "Project name2": "Название проекта",
+            "Project desc2": "Lorem ipsum dolor sit amet consectetur. Eget at dictum feugiat amet semper tristique at suspendisse. Sagittis.",
+            "Project name3": "Название проекта",
+            "Project desc3": "Lorem ipsum dolor sit amet consectetur. Eget at dictum feugiat amet semper tristique at suspendisse. Sagittis.",
+            "Project name4": "Название проекта",
+            "Project desc4": "Lorem ipsum dolor sit amet consectetur. Eget at dictum feugiat amet semper tristique at suspendisse. Sagittis."
+        },
+
+        "callback": {
+            "callback__title": "Создайте свой первый сайт вместе с нами!",
+            "callback__subtitle": "Lorem ipsum dolor sit amet consectetur. A sollicitudin nisl eget eu et ut nisl. Sagittis lorem libero",
+            "Email address": "Email адрес",
+            "Request a call": "Заказать звонок"
+        },
+        
+
+        "advantage": {
+            "Advantages": "Преимущества",
+            "Why choose us": "Почему выбрать нас?",
+            "Benefit Name1": "Название преимущества",
+            "Benefit desc1": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+            "Benefit Name2": "Название преимущества",
+            "Benefit desc2": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+            "Benefit Name3": "Название преимущества",
+            "Benefit desc3": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ."
+        },
+
+
+        "clients": {
+            "our clients": "Наши клиенты",
+            "Who did we work with": "С кем мы работали?"
+        },
+
+        "form": {
+            "Do you have any questions": "Остались вопросы?",
+            "Do you have any questions subtitle": "Lorem ipsum dolor sit amet consectetur. A sollicitudin nisl eget eu et ut nisl. Sagittis lorem libero",
+            "Mobile App & Web Design": "Мобильное приложение и веб-дизайн",
+            "SAAS": "SAAS",
+            "Website Development": "Разработка сайта",
+            "Design Systems": "Дизайн-системы",
+            "CRM, CMS, Web Apps": "CRM, CMS, Web Apps",
+            "Strategy & Design": "Стратегия и дизайн",
+            "Branding & Visual Identity": "Брендинг и визуальная идентификация",
+            "Wireframing & User Testing": "Каркас и пользовательское тестирование",
+            "your name": "Ваше имя",
+            "your email": "Ваш email",
+            "Write here": "Напишите сюда...",
+            "form agreement": "Lorem ipsum dolor sit amet consectetur. A sollicitudin nisl eget eu et ut nisl. Sagittis lorem libero",
+            "send": "Отправить" 
+        }
+    },
+
+    "servicesPage": {
+        "main": "Главная",
+        "our services": "Наши услуги",
+        "our services subtitle": "Создадим конверсионный сайт для решения ваших бизнес-задач. Любая сложность: от лендингов до корпоративных порталов и интернет-магазинов.",
+        
+        "Website development": "Создание сайтов",
+        "SEO promotion": "SEO-продвижение",
+        "contextual advertising": "Контекстная реклама",
+        "Targeted advertising": "Таргетинговая реклама",
+        "SMM promotion": "SMM продвижение",
+        "Service": "Обслуживание",
+        "Identity": "Айдентика",
+        "Web analytics": "Веб аналитика",
+        
+        "blocks": {
+            "block1": {
+                "tab1": {
+                    "name": "Сайт каталог",
+                    "Development Website catalog on a turnkey basis": "Разработка Сайт каталог под ключ",
+                    "Creation": "Создание многостраничного сайта-каталога любого масштаба с интеграцией с CRM, API и современным дизайном",
+                    "advantage name 1": "Название преимущества 1",
+                    "advantage desc 1": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 2": "Название преимущества 2",
+                    "advantage desc 2": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 3": "Название преимущества 3",
+                    "advantage desc 3": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    
+                    "prices": "Цены",
+                    "our prices": "Наши цены",
+                    "prices desc": "Lorem ipsum dolor sit amet consectetur. Vestibulum nisi volutpat vestibulum sed massa facilisis semper. Tellus ullamcorper sit sed sagittis.",
+                    
+                    "Unlimited Bandwitch": "Unlimited Bandwitch",
+                    "Encrypted Connection": "Encrypted Connection",
+                    "Yes Traffic Logs": "Yes Traffic Logs",
+                    "Works on All Devices": "Works on All Devices",
+                    "Connect Anyware": "Connect Anyware",
+                
+                
+                    "Basic": "Basic",
+                    "Basic desc": "Определяем цели и задачи проекта",
+                    "Plus": "Plus",
+                    "Plus desc": "Определяем цели и задачи проекта",
+                    "Premium": "Premium",
+                    "Premium desc": "Определяем цели и задачи проекта",
+                    "per month": "в месяц",
+                    "Advantages": "Преимущества",
+                    "Advantages how": "Как мы создаем качественный каталог товаров",
+                    "Advantages desc": "Изучаем конъюнктуру рынка и потребности целевой аудитории. Ориентируемся на высокие конверсии: продуманная структура, современный дизайн, актуальный контент. Главные критерии — визуально понятный интерфейс, удобная навигация, высокая скорость загрузки страниц, адаптивность и масштабируемость.",
+                    "Advantage 1": "Название 1",
+                    "Advantage 1 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 2": "Название 2",
+                    "Advantage 2 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 3": "Название 3",
+                    "Advantage 3 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                
+                    "order a consultation": "Заказать консултатцию",
+                    "order desc": "Lorem ipsum dolor sit amet consectetur. A sollicitudin nisl eget eu et ut nisl. Sagittis lorem libero",
+                    "request a call": "Заказать звонок",
+                    "your email": "Email адрес"
+                
+                },
+            
+                "tab2": {
+                    "name": "Корпоративные сайты",
+                    
+                    "Development Website catalog on a turnkey basis": "Разработка Сайт каталог под ключ",
+                    "Creation": "Создание многостраничного сайта-каталога любого масштаба с интеграцией с CRM, API и современным дизайном",
+                    "advantage name 1": "Название преимущества",
+                    "advantage desc 1": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 2": "Название преимущества",
+                    "advantage desc 2": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 3": "Название преимущества",
+                    "advantage desc 3": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    
+                    "prices": "Цены",
+                    "our prices": "Наши цены",
+                    "prices desc": "Lorem ipsum dolor sit amet consectetur. Vestibulum nisi volutpat vestibulum sed massa facilisis semper. Tellus ullamcorper sit sed sagittis.",
+                    
+                    "Unlimited Bandwitch": "Unlimited Bandwitch",
+                    "Encrypted Connection": "Encrypted Connection",
+                    "Yes Traffic Logs": "Yes Traffic Logs",
+                    "Works on All Devices": "Works on All Devices",
+                    "Connect Anyware": "Connect Anyware",
+            
+            
+                    "Basic": "Basic",
+                    "Basic desc": "Определяем цели и задачи проекта",
+                    "Plus": "Plus",
+                    "Plus desc": "Определяем цели и задачи проекта",
+                    "Premium": "Premium",
+                    "Premium desc": "Определяем цели и задачи проекта",
+                    "per month": "в месяц",
+                    "Advantages": "Преимущества",
+                    "Advantages how": "Как мы создаем качественный каталог товаров",
+                    "Advantages desc": "Изучаем конъюнктуру рынка и потребности целевой аудитории. Ориентируемся на высокие конверсии: продуманная структура, современный дизайн, актуальный контент. Главные критерии — визуально понятный интерфейс, удобная навигация, высокая скорость загрузки страниц, адаптивность и масштабируемость.",
+                    "Advantage 1": "Название",
+                    "Advantage 1 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 2": "Название",
+                    "Advantage 2 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 3": "Название",
+                    "Advantage 3 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+            
+                    "order a consultation": "Заказать консултатцию",
+                    "order desc": "Lorem ipsum dolor sit amet consectetur. A sollicitudin nisl eget eu et ut nisl. Sagittis lorem libero",
+                    "request a call": "Заказать звонок",
+                    "your email": "Email адрес"
+                },
+            
+                "tab3": {
+                    "name": "Landing page",
+                    "Development Website catalog on a turnkey basis": "Разработка Сайт каталог под ключ",
+                    "Creation": "Создание многостраничного сайта-каталога любого масштаба с интеграцией с CRM, API и современным дизайном",
+                    "advantage name 1": "Название преимущества",
+                    "advantage desc 1": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 2": "Название преимущества",
+                    "advantage desc 2": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 3": "Название преимущества",
+                    "advantage desc 3": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    
+                    "prices": "Цены",
+                    "our prices": "Наши цены",
+                    "prices desc": "Lorem ipsum dolor sit amet consectetur. Vestibulum nisi volutpat vestibulum sed massa facilisis semper. Tellus ullamcorper sit sed sagittis.",
+                    
+                    "Unlimited Bandwitch": "Unlimited Bandwitch",
+                    "Encrypted Connection": "Encrypted Connection",
+                    "Yes Traffic Logs": "Yes Traffic Logs",
+                    "Works on All Devices": "Works on All Devices",
+                    "Connect Anyware": "Connect Anyware",
+                
+                
+                    "Basic": "Basic",
+                    "Basic desc": "Определяем цели и задачи проекта",
+                    "Plus": "Plus",
+                    "Plus desc": "Определяем цели и задачи проекта",
+                    "Premium": "Premium",
+                    "Premium desc": "Определяем цели и задачи проекта",
+                    "per month": "в месяц",
+                    "Advantages": "Преимущества",
+                    "Advantages how": "Как мы создаем качественный каталог товаров",
+                    "Advantages desc": "Изучаем конъюнктуру рынка и потребности целевой аудитории. Ориентируемся на высокие конверсии: продуманная структура, современный дизайн, актуальный контент. Главные критерии — визуально понятный интерфейс, удобная навигация, высокая скорость загрузки страниц, адаптивность и масштабируемость.",
+                    "Advantage 1": "Название",
+                    "Advantage 1 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 2": "Название",
+                    "Advantage 2 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 3": "Название",
+                    "Advantage 3 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                
+                    "order a consultation": "Заказать консултатцию",
+                    "order desc": "Lorem ipsum dolor sit amet consectetur. A sollicitudin nisl eget eu et ut nisl. Sagittis lorem libero",
+                    "request a call": "Заказать звонок",
+                    "your email": "Email адрес"
+                
+                }
+            },
+        
+            "block2": {
+                "tab1": {
+                    "name": "Сайт каталог seo",
+                    "Development Website catalog on a turnkey basis": "Разработка Сайт каталог под ключ",
+                    "Creation": "Создание многостраничного сайта-каталога любого масштаба с интеграцией с CRM, API и современным дизайном",
+                    "advantage name 1": "Название преимущества",
+                    "advantage desc 1": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 2": "Название преимущества",
+                    "advantage desc 2": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 3": "Название преимущества",
+                    "advantage desc 3": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    
+                    "prices": "Цены",
+                    "our prices": "Наши цены",
+                    "prices desc": "Lorem ipsum dolor sit amet consectetur. Vestibulum nisi volutpat vestibulum sed massa facilisis semper. Tellus ullamcorper sit sed sagittis.",
+                    
+                    "Unlimited Bandwitch": "Unlimited Bandwitch",
+                    "Encrypted Connection": "Encrypted Connection",
+                    "Yes Traffic Logs": "Yes Traffic Logs",
+                    "Works on All Devices": "Works on All Devices",
+                    "Connect Anyware": "Connect Anyware",
+                
+                
+                    "Basic": "Basic",
+                    "Basic desc": "Определяем цели и задачи проекта",
+                    "Plus": "Plus",
+                    "Plus desc": "Определяем цели и задачи проекта",
+                    "Premium": "Premium",
+                    "Premium desc": "Определяем цели и задачи проекта",
+                    "per month": "в месяц",
+                    "Advantages": "Преимущества",
+                    "Advantages how": "Как мы создаем качественный каталог товаров",
+                    "Advantages desc": "Изучаем конъюнктуру рынка и потребности целевой аудитории. Ориентируемся на высокие конверсии: продуманная структура, современный дизайн, актуальный контент. Главные критерии — визуально понятный интерфейс, удобная навигация, высокая скорость загрузки страниц, адаптивность и масштабируемость.",
+                    "Advantage 1": "Название",
+                    "Advantage 1 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 2": "Название",
+                    "Advantage 2 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 3": "Название",
+                    "Advantage 3 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                
+                    "order a consultation": "Заказать консултатцию",
+                    "order desc": "Lorem ipsum dolor sit amet consectetur. A sollicitudin nisl eget eu et ut nisl. Sagittis lorem libero",
+                    "request a call": "Заказать звонок",
+                    "your email": "Email адрес"
+                
+                },
+            
+                "tab2": {
+                    "name": "Корпоративные сайты",
+                    
+                    "Development Website catalog on a turnkey basis": "Разработка Сайт каталог под ключ",
+                    "Creation": "Создание многостраничного сайта-каталога любого масштаба с интеграцией с CRM, API и современным дизайном",
+                    "advantage name 1": "Название преимущества",
+                    "advantage desc 1": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 2": "Название преимущества",
+                    "advantage desc 2": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 3": "Название преимущества",
+                    "advantage desc 3": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    
+                    "prices": "Цены",
+                    "our prices": "Наши цены",
+                    "prices desc": "Lorem ipsum dolor sit amet consectetur. Vestibulum nisi volutpat vestibulum sed massa facilisis semper. Tellus ullamcorper sit sed sagittis.",
+                    
+                    "Unlimited Bandwitch": "Unlimited Bandwitch",
+                    "Encrypted Connection": "Encrypted Connection",
+                    "Yes Traffic Logs": "Yes Traffic Logs",
+                    "Works on All Devices": "Works on All Devices",
+                    "Connect Anyware": "Connect Anyware",
+            
+            
+                    "Basic": "Basic",
+                    "Basic desc": "Определяем цели и задачи проекта",
+                    "Plus": "Plus",
+                    "Plus desc": "Определяем цели и задачи проекта",
+                    "Premium": "Premium",
+                    "Premium desc": "Определяем цели и задачи проекта",
+                    "per month": "в месяц",
+                    "Advantages": "Преимущества",
+                    "Advantages how": "Как мы создаем качественный каталог товаров",
+                    "Advantages desc": "Изучаем конъюнктуру рынка и потребности целевой аудитории. Ориентируемся на высокие конверсии: продуманная структура, современный дизайн, актуальный контент. Главные критерии — визуально понятный интерфейс, удобная навигация, высокая скорость загрузки страниц, адаптивность и масштабируемость.",
+                    "Advantage 1": "Название",
+                    "Advantage 1 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 2": "Название",
+                    "Advantage 2 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 3": "Название",
+                    "Advantage 3 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+            
+                    "order a consultation": "Заказать консултатцию",
+                    "order desc": "Lorem ipsum dolor sit amet consectetur. A sollicitudin nisl eget eu et ut nisl. Sagittis lorem libero",
+                    "request a call": "Заказать звонок",
+                    "your email": "Email адрес"
+                },
+            
+                "tab3": {
+                    "name": "Landing page",
+                    "Development Website catalog on a turnkey basis": "Разработка Сайт каталог под ключ",
+                    "Creation": "Создание многостраничного сайта-каталога любого масштаба с интеграцией с CRM, API и современным дизайном",
+                    "advantage name 1": "Название преимущества",
+                    "advantage desc 1": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 2": "Название преимущества",
+                    "advantage desc 2": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 3": "Название преимущества",
+                    "advantage desc 3": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    
+                    "prices": "Цены",
+                    "our prices": "Наши цены",
+                    "prices desc": "Lorem ipsum dolor sit amet consectetur. Vestibulum nisi volutpat vestibulum sed massa facilisis semper. Tellus ullamcorper sit sed sagittis.",
+                    
+                    "Unlimited Bandwitch": "Unlimited Bandwitch",
+                    "Encrypted Connection": "Encrypted Connection",
+                    "Yes Traffic Logs": "Yes Traffic Logs",
+                    "Works on All Devices": "Works on All Devices",
+                    "Connect Anyware": "Connect Anyware",
+                
+                
+                    "Basic": "Basic",
+                    "Basic desc": "Определяем цели и задачи проекта",
+                    "Plus": "Plus",
+                    "Plus desc": "Определяем цели и задачи проекта",
+                    "Premium": "Premium",
+                    "Premium desc": "Определяем цели и задачи проекта",
+                    "per month": "в месяц",
+                    "Advantages": "Преимущества",
+                    "Advantages how": "Как мы создаем качественный каталог товаров",
+                    "Advantages desc": "Изучаем конъюнктуру рынка и потребности целевой аудитории. Ориентируемся на высокие конверсии: продуманная структура, современный дизайн, актуальный контент. Главные критерии — визуально понятный интерфейс, удобная навигация, высокая скорость загрузки страниц, адаптивность и масштабируемость.",
+                    "Advantage 1": "Название",
+                    "Advantage 1 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 2": "Название",
+                    "Advantage 2 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 3": "Название",
+                    "Advantage 3 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                
+                    "order a consultation": "Заказать консултатцию",
+                    "order desc": "Lorem ipsum dolor sit amet consectetur. A sollicitudin nisl eget eu et ut nisl. Sagittis lorem libero",
+                    "request a call": "Заказать звонок",
+                    "your email": "Email адрес"
+                
+                }
+            },
+        
+            "block3": {
+                "tab1": {
+                    "name": "Сайт каталог context",
+                    "Development Website catalog on a turnkey basis": "Разработка Сайт каталог под ключ",
+                    "Creation": "Создание многостраничного сайта-каталога любого масштаба с интеграцией с CRM, API и современным дизайном",
+                    "advantage name 1": "Название преимущества",
+                    "advantage desc 1": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 2": "Название преимущества",
+                    "advantage desc 2": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 3": "Название преимущества",
+                    "advantage desc 3": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    
+                    "prices": "Цены",
+                    "our prices": "Наши цены",
+                    "prices desc": "Lorem ipsum dolor sit amet consectetur. Vestibulum nisi volutpat vestibulum sed massa facilisis semper. Tellus ullamcorper sit sed sagittis.",
+                    
+                    "Unlimited Bandwitch": "Unlimited Bandwitch",
+                    "Encrypted Connection": "Encrypted Connection",
+                    "Yes Traffic Logs": "Yes Traffic Logs",
+                    "Works on All Devices": "Works on All Devices",
+                    "Connect Anyware": "Connect Anyware",
+                
+                
+                    "Basic": "Basic",
+                    "Basic desc": "Определяем цели и задачи проекта",
+                    "Plus": "Plus",
+                    "Plus desc": "Определяем цели и задачи проекта",
+                    "Premium": "Premium",
+                    "Premium desc": "Определяем цели и задачи проекта",
+                    "per month": "в месяц",
+                    "Advantages": "Преимущества",
+                    "Advantages how": "Как мы создаем качественный каталог товаров",
+                    "Advantages desc": "Изучаем конъюнктуру рынка и потребности целевой аудитории. Ориентируемся на высокие конверсии: продуманная структура, современный дизайн, актуальный контент. Главные критерии — визуально понятный интерфейс, удобная навигация, высокая скорость загрузки страниц, адаптивность и масштабируемость.",
+                    "Advantage 1": "Название",
+                    "Advantage 1 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 2": "Название",
+                    "Advantage 2 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 3": "Название",
+                    "Advantage 3 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                
+                    "order a consultation": "Заказать консултатцию",
+                    "order desc": "Lorem ipsum dolor sit amet consectetur. A sollicitudin nisl eget eu et ut nisl. Sagittis lorem libero",
+                    "request a call": "Заказать звонок",
+                    "your email": "Email адрес"
+                
+                },
+            
+                "tab2": {
+                    "name": "Корпоративные сайты",
+                    
+                    "Development Website catalog on a turnkey basis": "Разработка Сайт каталог под ключ",
+                    "Creation": "Создание многостраничного сайта-каталога любого масштаба с интеграцией с CRM, API и современным дизайном",
+                    "advantage name 1": "Название преимущества",
+                    "advantage desc 1": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 2": "Название преимущества",
+                    "advantage desc 2": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 3": "Название преимущества",
+                    "advantage desc 3": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    
+                    "prices": "Цены",
+                    "our prices": "Наши цены",
+                    "prices desc": "Lorem ipsum dolor sit amet consectetur. Vestibulum nisi volutpat vestibulum sed massa facilisis semper. Tellus ullamcorper sit sed sagittis.",
+                    
+                    "Unlimited Bandwitch": "Unlimited Bandwitch",
+                    "Encrypted Connection": "Encrypted Connection",
+                    "Yes Traffic Logs": "Yes Traffic Logs",
+                    "Works on All Devices": "Works on All Devices",
+                    "Connect Anyware": "Connect Anyware",
+            
+            
+                    "Basic": "Basic",
+                    "Basic desc": "Определяем цели и задачи проекта",
+                    "Plus": "Plus",
+                    "Plus desc": "Определяем цели и задачи проекта",
+                    "Premium": "Premium",
+                    "Premium desc": "Определяем цели и задачи проекта",
+                    "per month": "в месяц",
+                    "Advantages": "Преимущества",
+                    "Advantages how": "Как мы создаем качественный каталог товаров",
+                    "Advantages desc": "Изучаем конъюнктуру рынка и потребности целевой аудитории. Ориентируемся на высокие конверсии: продуманная структура, современный дизайн, актуальный контент. Главные критерии — визуально понятный интерфейс, удобная навигация, высокая скорость загрузки страниц, адаптивность и масштабируемость.",
+                    "Advantage 1": "Название",
+                    "Advantage 1 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 2": "Название",
+                    "Advantage 2 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 3": "Название",
+                    "Advantage 3 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+            
+                    "order a consultation": "Заказать консултатцию",
+                    "order desc": "Lorem ipsum dolor sit amet consectetur. A sollicitudin nisl eget eu et ut nisl. Sagittis lorem libero",
+                    "request a call": "Заказать звонок",
+                    "your email": "Email адрес"
+                },
+            
+                "tab3": {
+                    "name": "Landing page",
+                    "Development Website catalog on a turnkey basis": "Разработка Сайт каталог под ключ",
+                    "Creation": "Создание многостраничного сайта-каталога любого масштаба с интеграцией с CRM, API и современным дизайном",
+                    "advantage name 1": "Название преимущества",
+                    "advantage desc 1": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 2": "Название преимущества",
+                    "advantage desc 2": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 3": "Название преимущества",
+                    "advantage desc 3": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    
+                    "prices": "Цены",
+                    "our prices": "Наши цены",
+                    "prices desc": "Lorem ipsum dolor sit amet consectetur. Vestibulum nisi volutpat vestibulum sed massa facilisis semper. Tellus ullamcorper sit sed sagittis.",
+                    
+                    "Unlimited Bandwitch": "Unlimited Bandwitch",
+                    "Encrypted Connection": "Encrypted Connection",
+                    "Yes Traffic Logs": "Yes Traffic Logs",
+                    "Works on All Devices": "Works on All Devices",
+                    "Connect Anyware": "Connect Anyware",
+                
+                
+                    "Basic": "Basic",
+                    "Basic desc": "Определяем цели и задачи проекта",
+                    "Plus": "Plus",
+                    "Plus desc": "Определяем цели и задачи проекта",
+                    "Premium": "Premium",
+                    "Premium desc": "Определяем цели и задачи проекта",
+                    "per month": "в месяц",
+                    "Advantages": "Преимущества",
+                    "Advantages how": "Как мы создаем качественный каталог товаров",
+                    "Advantages desc": "Изучаем конъюнктуру рынка и потребности целевой аудитории. Ориентируемся на высокие конверсии: продуманная структура, современный дизайн, актуальный контент. Главные критерии — визуально понятный интерфейс, удобная навигация, высокая скорость загрузки страниц, адаптивность и масштабируемость.",
+                    "Advantage 1": "Название",
+                    "Advantage 1 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 2": "Название",
+                    "Advantage 2 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 3": "Название",
+                    "Advantage 3 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                
+                    "order a consultation": "Заказать консултатцию",
+                    "order desc": "Lorem ipsum dolor sit amet consectetur. A sollicitudin nisl eget eu et ut nisl. Sagittis lorem libero",
+                    "request a call": "Заказать звонок",
+                    "your email": "Email адрес"
+                
+                }
+            },
+        
+            "block4": {
+                "tab1": {
+                    "name": "Сайт каталог target",
+                    "Development Website catalog on a turnkey basis": "Разработка Сайт каталог под ключ",
+                    "Creation": "Создание многостраничного сайта-каталога любого масштаба с интеграцией с CRM, API и современным дизайном",
+                    "advantage name 1": "Название преимущества",
+                    "advantage desc 1": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 2": "Название преимущества",
+                    "advantage desc 2": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 3": "Название преимущества",
+                    "advantage desc 3": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    
+                    "prices": "Цены",
+                    "our prices": "Наши цены",
+                    "prices desc": "Lorem ipsum dolor sit amet consectetur. Vestibulum nisi volutpat vestibulum sed massa facilisis semper. Tellus ullamcorper sit sed sagittis.",
+                    
+                    "Unlimited Bandwitch": "Unlimited Bandwitch",
+                    "Encrypted Connection": "Encrypted Connection",
+                    "Yes Traffic Logs": "Yes Traffic Logs",
+                    "Works on All Devices": "Works on All Devices",
+                    "Connect Anyware": "Connect Anyware",
+                
+                
+                    "Basic": "Basic",
+                    "Basic desc": "Определяем цели и задачи проекта",
+                    "Plus": "Plus",
+                    "Plus desc": "Определяем цели и задачи проекта",
+                    "Premium": "Premium",
+                    "Premium desc": "Определяем цели и задачи проекта",
+                    "per month": "в месяц",
+                    "Advantages": "Преимущества",
+                    "Advantages how": "Как мы создаем качественный каталог товаров",
+                    "Advantages desc": "Изучаем конъюнктуру рынка и потребности целевой аудитории. Ориентируемся на высокие конверсии: продуманная структура, современный дизайн, актуальный контент. Главные критерии — визуально понятный интерфейс, удобная навигация, высокая скорость загрузки страниц, адаптивность и масштабируемость.",
+                    "Advantage 1": "Название",
+                    "Advantage 1 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 2": "Название",
+                    "Advantage 2 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 3": "Название",
+                    "Advantage 3 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                
+                    "order a consultation": "Заказать консултатцию",
+                    "order desc": "Lorem ipsum dolor sit amet consectetur. A sollicitudin nisl eget eu et ut nisl. Sagittis lorem libero",
+                    "request a call": "Заказать звонок",
+                    "your email": "Email адрес"
+                
+                },
+            
+                "tab2": {
+                    "name": "Корпоративные сайты",
+                    
+                    "Development Website catalog on a turnkey basis": "Разработка Сайт каталог под ключ",
+                    "Creation": "Создание многостраничного сайта-каталога любого масштаба с интеграцией с CRM, API и современным дизайном",
+                    "advantage name 1": "Название преимущества",
+                    "advantage desc 1": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 2": "Название преимущества",
+                    "advantage desc 2": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 3": "Название преимущества",
+                    "advantage desc 3": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    
+                    "prices": "Цены",
+                    "our prices": "Наши цены",
+                    "prices desc": "Lorem ipsum dolor sit amet consectetur. Vestibulum nisi volutpat vestibulum sed massa facilisis semper. Tellus ullamcorper sit sed sagittis.",
+                    
+                    "Unlimited Bandwitch": "Unlimited Bandwitch",
+                    "Encrypted Connection": "Encrypted Connection",
+                    "Yes Traffic Logs": "Yes Traffic Logs",
+                    "Works on All Devices": "Works on All Devices",
+                    "Connect Anyware": "Connect Anyware",
+            
+            
+                    "Basic": "Basic",
+                    "Basic desc": "Определяем цели и задачи проекта",
+                    "Plus": "Plus",
+                    "Plus desc": "Определяем цели и задачи проекта",
+                    "Premium": "Premium",
+                    "Premium desc": "Определяем цели и задачи проекта",
+                    "per month": "в месяц",
+                    "Advantages": "Преимущества",
+                    "Advantages how": "Как мы создаем качественный каталог товаров",
+                    "Advantages desc": "Изучаем конъюнктуру рынка и потребности целевой аудитории. Ориентируемся на высокие конверсии: продуманная структура, современный дизайн, актуальный контент. Главные критерии — визуально понятный интерфейс, удобная навигация, высокая скорость загрузки страниц, адаптивность и масштабируемость.",
+                    "Advantage 1": "Название",
+                    "Advantage 1 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 2": "Название",
+                    "Advantage 2 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 3": "Название",
+                    "Advantage 3 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+            
+                    "order a consultation": "Заказать консултатцию",
+                    "order desc": "Lorem ipsum dolor sit amet consectetur. A sollicitudin nisl eget eu et ut nisl. Sagittis lorem libero",
+                    "request a call": "Заказать звонок",
+                    "your email": "Email адрес"
+                },
+            
+                "tab3": {
+                    "name": "Landing page",
+                    "Development Website catalog on a turnkey basis": "Разработка Сайт каталог под ключ",
+                    "Creation": "Создание многостраничного сайта-каталога любого масштаба с интеграцией с CRM, API и современным дизайном",
+                    "advantage name 1": "Название преимущества",
+                    "advantage desc 1": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 2": "Название преимущества",
+                    "advantage desc 2": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    "advantage name 3": "Название преимущества",
+                    "advantage desc 3": "Определяем цели и задачи проекта, изучаем бизнес-процессы. Планируем архитектуру сайта, прототипируем и составляем ТЗ.",
+                    
+                    "prices": "Цены",
+                    "our prices": "Наши цены",
+                    "prices desc": "Lorem ipsum dolor sit amet consectetur. Vestibulum nisi volutpat vestibulum sed massa facilisis semper. Tellus ullamcorper sit sed sagittis.",
+                    
+                    "Unlimited Bandwitch": "Unlimited Bandwitch",
+                    "Encrypted Connection": "Encrypted Connection",
+                    "Yes Traffic Logs": "Yes Traffic Logs",
+                    "Works on All Devices": "Works on All Devices",
+                    "Connect Anyware": "Connect Anyware",
+                
+                
+                    "Basic": "Basic",
+                    "Basic desc": "Определяем цели и задачи проекта",
+                    "Plus": "Plus",
+                    "Plus desc": "Определяем цели и задачи проекта",
+                    "Premium": "Premium",
+                    "Premium desc": "Определяем цели и задачи проекта",
+                    "per month": "в месяц",
+                    "Advantages": "Преимущества",
+                    "Advantages how": "Как мы создаем качественный каталог товаров",
+                    "Advantages desc": "Изучаем конъюнктуру рынка и потребности целевой аудитории. Ориентируемся на высокие конверсии: продуманная структура, современный дизайн, актуальный контент. Главные критерии — визуально понятный интерфейс, удобная навигация, высокая скорость загрузки страниц, адаптивность и масштабируемость.",
+                    "Advantage 1": "Название",
+                    "Advantage 1 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 2": "Название",
+                    "Advantage 2 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                    "Advantage 3": "Название",
+                    "Advantage 3 desc": "Lorem ipsum dolor sit amet consectetur. Viverra faucibus tempor congue et lorem vel quis augue.",
+                
+                    "order a consultation": "Заказать консултатцию",
+                    "order desc": "Lorem ipsum dolor sit amet consectetur. A sollicitudin nisl eget eu et ut nisl. Sagittis lorem libero",
+                    "request a call": "Заказать звонок",
+                    "your email": "Email адрес"
+                
+                }
+            }
+        }
+    },
+
+    "teamPage": {
+        "home": "Главная",
+        "our team": "Наша команда",
+        "our team desc": "Создадим конверсионный сайт для решения ваших бизнес-задач. Любая сложность: от лендингов до корпоративных порталов и интернет-магазинов.",
+        
+        "teamates": {
+    
+            "name 1": "Денис Парвианин",
+            "post 1": "CEO",
+            "desc 1": "Lorem ipsum dolor sit amet consectetur. Fames neque hac amet in ac. In sed ut a enim. Pretium sed dui cursus egestas.",
+            
+            "name 2": "Евгений Геннадий",
+            "post 2": "CEO",
+            "desc 2": "Lorem ipsum dolor sit amet consectetur. Fames neque hac amet in ac. In sed ut a enim. Pretium sed dui cursus egestas.",
+            
+            "name 3": "Ден Роман",
+            "post 3": "CEO",
+            "desc 3": "Lorem ipsum dolor sit amet consectetur. Fames neque hac amet in ac. In sed ut a enim. Pretium sed dui cursus egestas."
+            
+        }
+    }
+
+}
